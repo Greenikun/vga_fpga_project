@@ -1,3 +1,6 @@
+//MAKE THIS TOP
+
+
 module vga_top (
     input  wire clk_100MHz,       
     input  wire reset,             
